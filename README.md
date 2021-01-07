@@ -1,2 +1,2 @@
-# cse-158-assignment-2
-This is CSE 158 Assignment 2.
+# CSE 158 Assignment 2
+This project is the capstone project for CSE 158: Web Mining and Recommender Systems. For this project, our group decided to develop a model that could be used to classify whether a song is a billboard hit or not, depending on several audio features provided by the Spotify API as well as features derived by our group. The intricacies of finding the model as well as the results of our exploration can be found in the Report provided in this repository.   
